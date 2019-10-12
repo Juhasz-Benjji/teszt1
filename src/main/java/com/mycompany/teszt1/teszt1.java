@@ -23,7 +23,7 @@ public class teszt1 {
         
         
         
-        
+        //https://github.com/Juhasz-Benjji/teszt1.git
         
         System.err.println("alkma");
     } 

@@ -17,6 +17,8 @@ public class teszt1 {
      */
     public static void main(String args[]){
         System.out.println("Faszom mukodjel mar te geci");
-    }
+        System.out.println("alma");
+        System.out.println("akurva");
+    } 
     
 }

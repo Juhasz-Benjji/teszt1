@@ -20,6 +20,12 @@ public class teszt1 {
         System.out.println("alma");
         System.out.println("akurva");
         System.out.println("com.mycompany.teszt1.teszt1.main()");
+        
+        
+        
+        
+        
+        System.err.println("alkma");
     } 
     
 }

@@ -10,5 +10,13 @@ package com.mycompany.teszt1;
  * @author Beni meg a faszom
  */
 public class teszt1 {
+
+    /**
+     *
+     * @param args
+     */
+    public static void main(String args[]){
+        System.out.println("Faszom mukodjel mar te geci");
+    }
     
 }

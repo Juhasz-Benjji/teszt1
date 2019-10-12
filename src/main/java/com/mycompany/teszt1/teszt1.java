@@ -15,17 +15,24 @@ public class teszt1 {
      *
      * @param args
      */
-    public static void main(String args[]){
-        System.out.println("Faszom mukodjel mar te geci");
-        System.out.println("alma");
-        System.out.println("akurva");
-        System.out.println("com.mycompany.teszt1.teszt1.main()");
+    public static void main(String args[])
+    {
+        
+        int[][] almák = new int[3][3];
+        
+        for (int i = 0; i < almák.length; i++)
+        {
+            for (int j = 0; j <almák.length; j++)
+            {
+                
+                almák[i][j] =  i + j;
+                System.out.println(almák[i][j]);
+                
+            }
+            
+        }
         
         
-        
-        //https://github.com/Juhasz-Benjji/teszt1.git
-        
-        System.err.println("alkma");
     } 
     
 }
